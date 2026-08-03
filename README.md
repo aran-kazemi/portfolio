@@ -4,7 +4,7 @@ A personal, single-page portfolio website for Aran (Ali) Kazemi, Generative AI A
 
 ## Hosting
 
-Published via GitHub Pages: `https://aran-kazemi.github.io/portfolio/`
+Published via GitHub Pages: [https://aran-kazemi.github.io/portfolio/](https://aran-kazemi.github.io/portfolio/)
 
 ## License & Restrictions
 
