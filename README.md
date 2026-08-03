@@ -16,4 +16,4 @@ See [LICENSE](LICENSE) for the full terms and rationale.
 
 ## Contact
 
-eng.ali.kazemi@outlook.com
+<a href="https://linkedin.com/in/e-a-k" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=555" alt="Connect on LinkedIn"/></a>
