@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aran-kazemi.github.io/portfolio/sitemap.xml
